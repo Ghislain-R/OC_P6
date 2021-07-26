@@ -58,7 +58,7 @@ exports.getAllSauces = (req, res, next) => {
     .catch(error => res.status(400).json({ error }));
 };
 
-
+/*Gestion des likes et dislikes */
 exports.likeOrDislikeSauce = (req, res, next) => {
   /*Récupération des éléments dans le corps de la page*/
   let like = req.body.like /*Valeur du like*/
