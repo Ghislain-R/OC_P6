@@ -19,8 +19,10 @@ Installer nodemon : Executer la commande  npm install -g nodemon
 Pour lancer le serveur, executer :  nodemon server.       
 
 
-Ouvrir une page du navigateur à l'adresse  http:\\localhost:4200        
-NB : Pour s'inscrire sur l'application, saisir un mot de passe contenant 8 caractères minimum (dont 1 Majuscule, 1 minuscule, 1 chiffre)        
+Ouvrir une page du navigateur à l'adresse  http:\\localhost:4200 
+
+NB : Pour s'inscrire sur l'application, saisir un mot de passe contenant 8 caractères minimum (dont 1 Majuscule, 1 minuscule, 1 chiffre)   
+
 Versions utilisées :        
 Node JS : 12.22.1     
 AngularCLI : 7.0.2        
